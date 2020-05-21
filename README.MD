@@ -1,6 +1,6 @@
 # MSDV Machine Learning Class 2019 and documentation
 
-## Three Project include in this repo:
+## Three Project included in this repo:
 NLP(supervised), Image Recognition(supervised), Image Clustering (unsupervised)
 
 ### Final Performance Machine Learning Assignment1 Useful comment recognition
