@@ -1,1 +1,7 @@
-# This is the repo for Machine Learning Class
+#MSDV Machine Learning Class 2019 and documentation
+
+## Final Performance Machine Learning Assignment1 Useful comment recognition
+![Assignmnet1Performance](https://github.com/shuvitRan/Machine-Learning-MSDV/tree/master/Performence/ml1final.png)
+
+## Final Performance Machine Learning Assignment2 Airplane recognition
+![Assignmnet1Performance2](https://github.com/shuvitRan/Machine-Learning-MSDV/tree/master/Performence/ml2final.png)
